@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#51355A</color>
+    <color name="color_primary_dark">#51355A</color>
+    <color name="color_accent">#51355A</color>
+
+    <color name="semi_transparent">#66000000</color>
+    <color name="semi_transparent2">#88000000</color>
+    <color name="text_color_toolbar">#FFF8F0</color>
+</resources>
